@@ -1,0 +1,5 @@
+1. Fix Game Manager (DONE)
+    - Game Over
+    - Score
+2. Add Menus (DONE)
+3. Use Object Pooling
